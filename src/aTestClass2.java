@@ -3,4 +3,6 @@ public class aTestClass2 {
     String ConflictResolved;
 
     boolean changes;
+
+    boolean changesInOtherBranch;
 }
