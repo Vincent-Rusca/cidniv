@@ -5,7 +5,7 @@ public class Hello {
         System.out.println("WOOF");
         System.out.println("Chicken: bark bark");
         System.out.println("hello my dudes");
-        System.out.println("LE WOO");
+        System.out.println("LE");
 
     }
 }
