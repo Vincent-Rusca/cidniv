@@ -4,5 +4,6 @@ public class Hello {
     {
         System.out.println("YO DAWG");
         System.out.println("WOOF");
+        System.out.println("Chicken: bark bark");
     }
 }
